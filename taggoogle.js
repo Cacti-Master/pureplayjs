@@ -8,6 +8,7 @@
       {name: "SLOWROADS", url: "https://slow-roads.vercel.app/", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT76btQTGOYcbq_of2VE8gwxwY8xt3xaGy9Mw&s"},
       {name: "WEB MINECRAFT", url: "https://eagler.colbster937.dev/", image: "https://i.pinimg.com/originals/ca/a6/28/caa6283ceefc113183760312d522de53.jpg"},
       {name: "SUPERHOT", url: "https://semag.netlify.app/games/superhot/", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NRo3TfhUTGLYa6NPJv9341KXWqN-1RdAUQ&s"},
+      {name: "REPO (NEW!)", url: "https://pureplay-repo.netlify.app/", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8x0xhyp1bzmFxkUjg3YC95fCpIrt4DZwIdw&s"},
       {name: "BUCKSHOT ROULETTE (NEW!)", url: "https://pureplay-buckshot.netlify.app/", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQR-EbdnW82N4Ik5_5I75bjuH1zVVI91Qs-Q&s"},
       {name: "ULTRAKILL (NEW!)", url: "pureplay-ultrakill.vercel.app", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjwhUz8bZZbtxkTPNvc976XkRaa8G_glQNlw&s"},
       {name: "INFINITE CRAFT", url: "https://www.infinitecraft.now/game/index.html", image: "https://play-lh.googleusercontent.com/YJFHGSmrMGuUqyWZ0oZDgDtDErIU2jQY3yT_PG9IRL6s5dBLmKXrXQShM3n8HFoPhkM=w240-h480-rw"},
